@@ -1,5 +1,6 @@
 
 def start_bot():
+    print('Hello! I am bot.'
     pass
 
 
