@@ -1,0 +1,5 @@
+rock_scissors_paper_bot/.env
+.idea/
+.venv/
+__pycache__/
+/.env

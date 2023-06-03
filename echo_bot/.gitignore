@@ -1,0 +1,4 @@
+echo_bot/.env
+.idea/
+venv/
+__pycache__/
