@@ -2,3 +2,4 @@ echo_bot/.env
 .idea/
 venv/
 __pycache__/
+/book_bot/.env
